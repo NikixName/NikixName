@@ -1,20 +1,8 @@
 <h1 align="center">Hi, I'm a beginner .NET developer 👋</h1>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc4cjY5MWlxMzIzNncyaTYzMWV5cXJrYjQwbHgxbzAzY3NiM2hyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="header gif" width="400"/>
-</div>
-
 ---
 
 ### About me
 I'm a beginner programmer actively learning **C#** and the **.NET** ecosystem. I'm currently in the process of learning and practicing, striving to write clean and efficient code. I enjoy solving problems and creating small projects to sharpen my skills.
-
-🔭 I'm currently working on educational projects in C#  
-🌱 I'm deepening my knowledge in **.NET**, **Git**, and databases  
-👯 I'm looking to collaborate on open-source projects for beginners  
-💬 Ask me about C# - I'm happy to discuss theory and practice  
-⚡ Fun fact: I'm not afraid to learn new things and take a step forward every day
-
 ---
 
 ### 🛠 My Tech Stack
